@@ -15,7 +15,7 @@
     ]
   },
   "context": {
-    "env": "nav",
+    "env": "new",
     "tagValue": null,
     "ragEnabled": false,
     "kendraIndexArn": null,
